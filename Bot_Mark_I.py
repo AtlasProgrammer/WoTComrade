@@ -6,6 +6,7 @@ import os
 import pydirectinput
 import win32api
 import pyautogui
+import keyboard
 
 def button():
     while True:

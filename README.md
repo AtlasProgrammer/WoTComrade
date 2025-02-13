@@ -45,8 +45,6 @@ Cloning the Repository
 
 Download or clone the repository containing the program code:
 
-Verify
-
 Open In Editor run copy code
 ```bash
 git clone https://github.com/AtlasProgrammer/WoTComrade

@@ -7,5 +7,12 @@ import pydirectinput
 import win32api
 import pyautogui
 
-def search():
-  pass
+def button():
+    while True:
+        pydirectinput.keyDown('s')
+        pydirectinput.keyUp('s')
+        time.sleep(0.1)
+        if keyboard.is_pressed('q'):
+            break
+
+button()

@@ -54,3 +54,12 @@ git clone https://github.com/AtlasProgrammer/WoTComrade
 ```bash
 cd WoTComrade
 ```
+### Running the Program
+
+After configuration, you can run the program by executing the following command in the terminal:
+
+Open In Editor run copy code
+
+```bash
+python Bot_Mark_I.py
+```

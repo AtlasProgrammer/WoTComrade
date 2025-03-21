@@ -59,5 +59,5 @@ After configuration, you can run the program by executing the following command 
 Open In Editor run copy code
 
 ```bash
-python Bot_Mark_I.py
+python Bot_Mark_II.py
 ```
